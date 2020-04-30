@@ -21,4 +21,6 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
+# About application :
+
+* Through this application you can book a doctor's apointments.
